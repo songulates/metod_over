@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\bin\Debug\net6.0\metod_overloding.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\bin\Debug\net6.0\metod_overloding.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\bin\Debug\net6.0\metod_overloding.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\bin\Debug\net6.0\metod_overloding.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\bin\Debug\net6.0\metod_overloding.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\refint\metod_overloding.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\metod_overloding.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\metod_overloding\obj\Debug\net6.0\ref\metod_overloding.dll
